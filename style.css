@@ -46,10 +46,30 @@ body{
 }
 
 #reset-btn{
+    margin-left: 46%;
     background-color: #000;
     color: #fff;
     padding: 0.7rem;
     font-size: 1.2rem;
     border-radius: 1.2rem;
     border: none;
+}
+#newgame-btn{
+    margin-left: 46%;
+    background-color: #000;
+    color: #fff;
+    padding: 0.7rem;
+    font-size: 1.2rem;
+    border-radius: 1.2rem;
+    border: none;
+}
+
+#msg{
+    color: #fff;
+    font-size: 6vmin;
+    text-align: center;
+}
+
+.msg-container{
+    display: none;
 }
